@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ConsoleApplicationGitTest\ConsoleApplicationGitTest\bin\Debug\ConsoleApplicationGitTest.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ConsoleApplicationGitTest\ConsoleApplicationGitTest\bin\Debug\ConsoleApplicationGitTest.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ConsoleApplicationGitTest\ConsoleApplicationGitTest\bin\Debug\ConsoleApplicationGitTest.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ConsoleApplicationGitTest\ConsoleApplicationGitTest\obj\Debug\ConsoleApplicationGitTest.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ConsoleApplicationGitTest\ConsoleApplicationGitTest\obj\Debug\ConsoleApplicationGitTest.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ConsoleApplicationGitTest\ConsoleApplicationGitTest\obj\Debug\ConsoleApplicationGitTest.pdb
